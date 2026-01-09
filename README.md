@@ -11,6 +11,11 @@
  Here, I want to share some of my projects and my growth in the programming world.
 I hope you enjoy exploring my repositories! </p>
 
+  <li> DSM Student 💻 🖱️ </li>
+  <li> FATEC - 4/6 📖 </li>
+  <li> She / Her 🎀 </li>
+  <li> Brazil ☀️ </li>
+
 </div>
 
 ## <div> 
