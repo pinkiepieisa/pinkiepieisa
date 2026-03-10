@@ -34,6 +34,12 @@ I hope you enjoy exploring my repositories! </p>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp&w=256">
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://freepngimg.com/download/icon/social_media/7510-postgresql.png">
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://freepngimg.com/icon/download/search/6625-mysql.png">
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1400/1*Klh1l7wkoG6PDPb9A5oCHQ.png">
+<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/sass-logo.png">
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-1-logo.png">
+
+
+
 
 
 
