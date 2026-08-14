@@ -12,7 +12,7 @@
 I hope you enjoy exploring my repositories! </p>
 
   <li> DSM Student 💻 🖱️ </li>
-  <li> FATEC - 4/6 📖 </li>
+  <li> FATEC - 5/6 📖 </li>
   <li> She / Her 🎀 </li>
   <li> Brazil ☀️ </li>
 
